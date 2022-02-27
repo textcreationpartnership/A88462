@@ -1,0 +1,228 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Ten severall orders to be put in execution by the Lord Major and aldermen of London, for the price and sale of meale, flesh, butter, and other commodities; and to prevent disorders in the markets : with the penalties to be inflicted upon every person or persons, which shall not obey the same. Also, the coming in of twenty thousand quarters of corne and graine. And a list of the particulars thereof as it is entred at the Custome House. And care is also taken, that every one may buy at the cheapest rate, and that there be no regrating or forestalling the markets. November, 5. 1647. Imprimatur, Gilb. Mabbot.</title>
+            <author>City of London (England). Court of Aldermen.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1647</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 9 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A88462</idno>
+            <idno type="STC">Wing L2864D</idno>
+            <idno type="STC">Thomason E413_2</idno>
+            <idno type="STC">ESTC R204477</idno>
+            <idno type="EEBO-CITATION">99863967</idno>
+            <idno type="PROQUEST">99863967</idno>
+            <idno type="VID">161264</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A88462)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 161264)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 65:E413[2])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Ten severall orders to be put in execution by the Lord Major and aldermen of London, for the price and sale of meale, flesh, butter, and other commodities; and to prevent disorders in the markets : with the penalties to be inflicted upon every person or persons, which shall not obey the same. Also, the coming in of twenty thousand quarters of corne and graine. And a list of the particulars thereof as it is entred at the Custome House. And care is also taken, that every one may buy at the cheapest rate, and that there be no regrating or forestalling the markets. November, 5. 1647. Imprimatur, Gilb. Mabbot.</title>
+                  <author>City of London (England). Court of Aldermen.</author>
+                  <author>England and Wales. Parliament. House of Commons.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Bernard Alsop, dwelling neere Cripple-Gate,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1647.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "Nouember 6".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Food prices --  Law and legislation --  England --  London --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-10</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2013-10</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:161264:1" rendition="simple:additions"/>
+            <p>TEN SEVERALL ORDERS TO Be put in execution by the Lord Major and Aldermen of <hi>London,</hi> for the price and ſale of Meale, Fleſh, Bu<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ter, and other Commodities; and to prevent Diſorders in the Markets: with the penalties to be inflicted upon every perſon or perſons, which ſhall not obey the ſame.</p>
+            <p>
+               <hi>ALSO,</hi> The coming in of twenty thouſand Quarters of Corne and Graine. And a Liſt of the particulars thereof, as it is entred at the Cuſtome Houſe.</p>
+            <p>And care is alſo taken, that every one may buy at the cheapeſt rate, and that there be no regrating or fore<g ref="char:EOLhyphen"/>ſtalling the Markets.</p>
+            <floatingText type="license" xml:lang="eng" subtype="imprimatur">
+               <body>
+                  <opener>
+                     <dateline>
+                        <date>
+                           <hi>NOVEMBER,</hi> 5. 1647.</date>
+                     </dateline>
+                  </opener>
+                  <p>Imprimatur,</p>
+                  <closer>
+                     <signed>Gilb. Mabbot.</signed>
+                  </closer>
+               </body>
+            </floatingText>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>Brrnard Alſop,</hi> dwelling neere Caipple-Gate, 1647.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:161264:2"/>
+            <pb n="1" facs="tcp:161264:2"/>
+            <head>Ten ſeverall ORDERS OF THE Lord Mayor and Aldermen of the City of <hi>London,</hi> for regulating the price of Meale, and other Commodities.</head>
+            <p>THE generall dearth which of late hath beene on all ſorts of commodities, both rich and poor are very ſenſible of, eſpecially on the price of corn &amp; chiefly of that which makes bread (the ſtaffe of man life) which hath not only afflicted the needy but oc<g ref="char:EOLhyphen"/>caſioned ſunday queries from whence the cauſe ſhould ariſe in the richeſt there appearing little viſible cauſe for the ſame, the earth yielding a plentifull increaſe in all parts, and to excuſe the matter ſome are pleaſed to aive their opinions, 1. That the ſtore of the Kingdom in the time of the late warre is exhauſted, 2ly. That the quartering of the Army neere this populous City was an em<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ent cauſe thereof, And thirdly the great a<g ref="char:EOLhyphen"/>buſe of regrating and foreſtalling the markets was not of the leaſt; which was chiefly done by thoſe which would fain have woven themſelves into a neerer Cor<g ref="char:EOLhyphen"/>poration who not only foreſtalled the market and keep
+<pb n="2" facs="tcp:161264:3"/> backe the Countrey people for comming in, but ſet up meale ſhops in every corner (a new trade out of the ſtanding of two Apprentiſhipps) which being lately taken into conſideration by the preſent Lord Major and Court of Aldermen they found apparent abuſe thereby and therefore thought good to order that no meale ſhopps ſhould be kept in the City of London and Liberties thereof after the third day of this inſtant <hi>No<g ref="char:EOLhyphen"/>vember</hi> and no meale ſhould be ſold but in open mar<g ref="char:EOLhyphen"/>ket the market dayes on forfeiture of ſuch penalties as are inflicted on regraters and foreſtallers by ſeverall good and wholſome lawes and ſtatutes in that caſe pro<g ref="char:EOLhyphen"/>vided.</p>
+            <p>There be alſo ſeverall orders for the market ordered by the Lord Major and Court of Aldermen to bee ob<g ref="char:EOLhyphen"/>ſerved.</p>
+            <div type="part">
+               <head>The Lawes or orders of the Lord <hi>Major</hi> and Court of Aldermen to be obſerved in every market with<g ref="char:EOLhyphen"/>in the City of London.</head>
+               <p>FIrſt in all the markets of this City no victuall ſhall be ſold but by the price ſet by the Mayor of the City.</p>
+               <p>Secondly No man ſhall foreſtall any victuall com<g ref="char:EOLhyphen"/>ming to the market as for to buy in any Iune or other privy place, or yet comming to the market, whether it be found in the hands of the buyer or of the ſeller, under pain of forfeiture of the ſame, and no Inholder ſhall ſuffer any thing to be ſold in his houſe upon pain of forty ſhillings.</p>
+               <p>Thirdly No man ſhall regrate any victuall which is in the market, or buy any victuall to Ingrate in the
+<pb n="3" facs="tcp:161264:3"/> market, ſo that the Commons can or may have any part of of ſuch victuall, as in ſpeciall ſuch as be known for Huckſters or other people occupying their living by ſuch victuall as they would ſo ingroſſe under paine of ſuch victuall ſo regrated, provided alwayes that any ſteward for any noble feaſt may buy or in grate ſuch victuall as is convenient ior the ſame feaſt.</p>
+               <p>Fourthly No butter ſhall be ſold but according to the time of the yeare allowed.</p>
+               <p>Fifthly No Poulterers ſhall deceivably occupie the marke to ſell any ſtale victuall or ſuch as the Poul<g ref="char:EOLhyphen"/>ters of this City, for to ſtand in ſtrange cloathing ſo to do under Pain of forty ſhillings and forfeiture of ſuch victuall.</p>
+               <p n="6">6ly No Huckſters ſhall ſtand or ſit in the market but in Lower places and ends of the market to the intent they may be perfectly knowne and the ſtranger market-people have the preheminence of the market under pain of three ſhillings foure pence, if the Huckſters diſobey the ſame.</p>
+               <p>Seventhly No unwholſome or ſtale victuall ſhall be ſold under paine of forty ſhillings foure pence and for<g ref="char:EOLhyphen"/>feiture of the ſame victuall.</p>
+               <p>Eighthly No Butcher or his ſervant ſhall uſe to drive any oxe or oxen a trot in the ſtreets, but peaceably, and if any oxe happen to be let go, when he is prepared to ſlaughter, the Butcher ſhall forfeit two ſhillings be<g ref="char:EOLhyphen"/>ſides recompence, if any perſon be hurt thereby.</p>
+               <p>Ninthly No Butcher ſhall ſell any Meaſell Hog, or unwholſome fleſh under pain oſ ten pounds.</p>
+               <p>Tenthly No Butcher ſhall ſell any old ſtale victuall, that is to ſay, about the ſlaughter of three dayes in the winter and two in the Summer under pain of ten pound.</p>
+               <pb n="4" facs="tcp:161264:4"/>
+               <p>No victules of ehe City ſhall give any rude or un<g ref="char:EOLhyphen"/>fitting language or make any clamour upon any man or woman in the, open market for cheapning of vi<g ref="char:EOLhyphen"/>ctuall under pain of three ſhillings foure pence.</p>
+               <p>
+                  <hi>Memorandum,</hi> that every offence, found in this City It is accuſtomed that the office, a free man finding it, which is called <hi>Primm Inventor,</hi> hath halfe the penalty by the grace of the Court.</p>
+               <p>Having here given you the good orders of the Lord Major and Court of Aldermen for the well ordering of victvall that the priſes of Commodities may not be inhumane nor the City and Country abuſed, It will not be amiſſe in the next place to give you a briefe account of the great penalty of wheat Rice, Barley, Mault, Oates, Beanes and peaſe was brought into the City by water of late in doing whea<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> of for better ſatisfaction I ſhall in the next place communicate to you a perfect Liſt of all ſuch corne ond Graine as hath beene entred in the cuſtome houſe of London from the firſt of October laſt to the thirtieth of the ſame as followeth.</p>
+            </div>
+            <div type="part">
+               <head>Entred in the Cuſtomes Book of Entries.</head>
+               <p>Of Wheat 1587 quarters. Of Rice. 6845, quar<g ref="char:EOLhyphen"/>ters, Of Barley 965 quarters. Of Mault, 1048
+<pb n="5" facs="tcp:161264:4"/> quarters. Of Oates 2275 quarters. Of Beanes and peaſe 1435 quarters, which in all amounts to 14175. quarters.</p>
+               <p>In which may likewiſe take notice that it is not the uſuall courſe to certifie the whole quantity of the Lading at the firſt entry for ſometimes neere a fourth part more is brought in for a poſt entry which together with what hath beene brought in ſince it thought can<g ref="char:EOLhyphen"/>not amount to leſſe the twenty thouſand quarters (in a matter of a moneth or five weekes) at the leaſt which with the remain<g ref="char:EOLhyphen"/>der th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t is expected and comes in dayly, with the care and well ordering thereof by the Governours of this City (who daily com<g ref="char:EOLhyphen"/>municate to the poore out of the ſtore laid every Companies the price of corne will pro<g ref="char:EOLhyphen"/>bably be abated of which theac begins to ap<g ref="char:EOLhyphen"/>peare ſome earneſt of our hopes though not ſo much informed might be for we have heard ſome affirme that wheat may be afforded at this time as in the buſhell cheaper then it could within this fortnight.</p>
+               <pb n="6" facs="tcp:161264:5"/>
+               <p>
+                  <table>
+                     <head>A perfect Liſt or Note of all ſuch Corn and Grayne, as have been entred in the Cuſtome-houſe of <hi>Lon<g ref="char:EOLhyphen"/>don.</hi> From the firſt of <hi>October</hi> laſt to the 30. of the ſame.</head>
+                     <row>
+                        <cell>
+                           <hi>Wheat</hi>
+                        </cell>
+                        <cell>1587 quarters.</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Rye</hi>
+                        </cell>
+                        <cell>6845 quarters.</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Barley</hi>
+                        </cell>
+                        <cell>0965 quarters.</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Mault</hi>
+                        </cell>
+                        <cell>1048 quarters.</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Oates</hi>
+                        </cell>
+                        <cell>2295 quarters.</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Beanes</hi> and <hi>Peaſe</hi>
+                        </cell>
+                        <cell>1435 quarters.</cell>
+                     </row>
+                     <row>
+                        <cell role="total">In the whole</cell>
+                        <cell>14175</cell>
+                     </row>
+                  </table>
+               </p>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
